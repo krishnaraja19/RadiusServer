@@ -15,4 +15,4 @@ Tech Stack: Java 19, Maven and GitHub
 2. successfully logging in with "frans2"/"fran123!" -- Working fine
 3. other cases should fail with a sensible return value and behaviour according to the rfc extract. -- Radius code is unknown.
   
-4. In rfc document I could not able to add the failed status code. I tried my best and I have used Radius Server core from Maven.
+4. In rfc document I could not able to add the failed status code. I tried my best and I have used Radius Server core from Maven Central libraries.
